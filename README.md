@@ -1,0 +1,1 @@
+# STM32F10x_Hal_Application_Template
